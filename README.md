@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/static/v1?style=flat-square&message=MobX&color=222222&logo=MobX&logoColor=FF9955&label="></a> &nbsp
 </p>
 
+</br>
 <h3 align="center"><b>🔗 Link</b></h3>
 </br>
 <p align="center">
@@ -29,6 +30,8 @@
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yyoungbest@gmail.com"/>
 </a> &nbsp
 </p>
+
+</br>
 
 [![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=jordan-choi)](https://github.com/anuraghazra/github-readme-stats)
 </p>
