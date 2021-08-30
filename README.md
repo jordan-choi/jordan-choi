@@ -1,8 +1,6 @@
-# Jordan Yunyoung Choi
-### Frontend Engineer
-* Experience in developing **Wep App** using **React**
-* Understanding the relationship between **UX design**, **Frontend**, and **Backend** including **Database**.
-* **Quick learner** and interested in **program performance**, **error testing**, and **code refactoring**.
+# FE Engineer Jordan Yunyoung Choi
+
+</br>
 
 <h3 align="center"><b>🛠 Tech Stack</b></h3>
 </br>
