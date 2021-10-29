@@ -21,7 +21,7 @@
 <h3 align="center"><b>🔗 Link</b></h3>
 </br>
 <p align="center">
-<a href="https://equal-single-def.notion.site/02c7fc5189544f7e8068b1e2548d37d8?v=2bae7d96a5e341a2904f628444d59b54">
+<a href="https://equal-single-def.notion.site/Jordan-21ba08ca2187436d989d7801bc1df0eb">
     <img src="https://img.shields.io/static/v1?style=flat-square&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label="/>
 </a> &nbsp
 <a href="mailto:yyoungbest@gmail.com">
