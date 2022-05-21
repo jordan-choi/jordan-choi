@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat-square&logo=apollo-graphql"></a> &nbsp
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white"></a> &nbsp
-<img src="https://img.shields.io/static/v1?style=flat-square&message=MobX&color=222222&logo=MobX&logoColor=FF9955&label="></a> &nbsp
 </p>
 
 </br>
